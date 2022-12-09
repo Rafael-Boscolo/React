@@ -1,0 +1,16 @@
+.container{
+    background-color: var(--gray-800);
+    border: 1px solid var(--black);
+    line-height: 1.5;
+}
+
+.fraseContent {
+    color: var(--white);
+    background-color: var(--gray-500);
+    margin: 1rem;
+}
+
+
+span{
+    color: var(--green-500);
+}
